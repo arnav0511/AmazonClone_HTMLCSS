@@ -19,7 +19,7 @@
 [Your Website Name] is a faithful HTML/CSS clone of Amazon, created to showcase the power of clean web development. It aims to provide a familiar shopping experience while highlighting the simplicity of HTML and CSS in web design.
 
 ## Demo
-🚀 Check out the live demo: [Demo Link]
+🚀 Check out the live demo: [Demo Link]:https://arnav0511.github.io/AmazonClone_HTMLCSS/
 
 ## Getting Started
 To run this project locally or explore the code:
